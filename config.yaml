@@ -1,4 +1,4 @@
-baseURL: "http://www.crashdive.co.uk/"
+baseURL: "https://www.crashdive.co.uk/"
 title: "Crash Dive"
 languageCode: "en-GB"
 disableKinds: ["taxonomy", "RSS"]
